@@ -9,8 +9,8 @@ _Turning ideas into reality_
 
 - **Phone:** 9617003635
 - **Email:** brajendrapateriya@gmail.comProfile
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **LinkedIn:** linkedin.com/in/brajendra-pateriya-735a9614a
+- **GitHub:** https://github.com/BP32-AI
 
 ---
 
