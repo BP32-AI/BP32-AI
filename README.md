@@ -1,4 +1,4 @@
-Brajendra Pateriya
+**Brajendra Pateriya**
 
 ### AI/ML Engineer & Software Developer
 _Turning ideas into reality_
