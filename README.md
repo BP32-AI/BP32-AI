@@ -1,14 +1,14 @@
-# Your Full Name
+Brajendra Pateriya
 
-### AI/ML Engineer & Laravel Developer
+### AI/ML Engineer & Software Developer
 _Turning ideas into reality_
 
 ---
 
 ### Contact Information
 
-- **Phone:** Your Phone Number
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **Phone:** 9617003635
+- **Email:** brajendrapateriya@gmail.comProfile
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **GitHub:** [github.com/your-username](https://github.com/your-username)
 
