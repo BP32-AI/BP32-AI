@@ -1,42 +1,114 @@
-**Brajendra Pateriya**
+# Hi 👋, I'm Brajendra Pateriya
 
-### AI/ML Engineer & Software Developer
-_Turning ideas into reality_
+🚀 AI/ML Engineer | Generative AI | Backend Engineer | Automation Systems
 
----
-
-### Contact Information
-
-- **Phone:** 9617003635
-- **Email:** brajendrapateriya@gmail.comProfile
-- **LinkedIn:** https://www.linkedin.com/in/brajendra-pateriya-735a9614a/
-- **GitHub:** https://github.com/BP32-AI
+I am passionate about building scalable AI systems, LLM applications, automation pipelines, and intelligent backend architectures that solve real-world business problems.
 
 ---
 
-### Professional Summary
+## 💡 About Me
 
-A brief summary of your skills and experience.
-* Mention your key skills, like AI/ML, Laravel, or Python.
-* Highlight a key accomplishment, such as a project you led or a problem you solved.
-* Describe what you are good at (e.g., turning ideas into reality, solving complex problems).
-
----
-
-### Education
-
-#### Bachelor of Technology, Computer Science
-* Your University Name, Your City
-* **Grade:** Your Grade or GPA
-* **Duration:** Aug XXXX - May XXXX
+- 🔭 Currently working on **LLM Applications, RAG Systems, Agentic AI & Automation**
+- 🌱 Exploring **Multi-Agent Systems, MCP Architecture & Scalable AI Infrastructure**
+- 💬 Ask me about:
+  - Generative AI
+  - RAG Pipelines
+  - Vector Databases
+  - FastAPI
+  - AI Automation
+  - Backend Engineering
+- ⚡ Strong interest in building production-grade AI systems
 
 ---
 
-### Experience
+## 🌐 Portfolio & Resume
 
-#### Your Job Title | Your Company Name
-* **Duration:** Start Date - End Date
-* **Key Responsibilities & Achievements:**
-    * Use bullet points to list your daily tasks and accomplishments.
-    * Quantify your achievements whenever possible (e.g., "Led development of a project that improved efficiency by 20%").
-    * Mention specific technologies you used (e.g., "Developed a new feature using Laravel and an AI API").
+- 🚀 Portfolio: https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/
+- 📄 Resume: https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/resume.pdf
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 AI / ML
+- Python
+- NLP
+- LLMs (LLaMA, DeepSeek, Gemma)
+- RAG
+- LangChain
+- Embeddings
+- FAISS / Qdrant
+- Sentence Transformers
+
+### ⚙️ Backend & APIs
+- FastAPI
+- Flask
+- Laravel
+- REST APIs
+- Async Processing
+
+### ☁️ Cloud & DevOps
+- AWS EC2
+- S3
+- Azure Blob Storage
+- Docker
+- GitHub Actions
+
+### 📊 Data & Automation
+- Pandas
+- NumPy
+- Selenium
+- BeautifulSoup
+- ETL Pipelines
+- Data Processing
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Job Recommendation System
+- Semantic search using embeddings
+- FAISS/Qdrant vector search
+- Resume-job matching using NLP
+- LLM-powered contextual recommendations
+
+### 🔹 LLM-based Chat Application
+- ChatGPT-style conversational AI
+- Context-aware memory
+- Multi-model orchestration
+- AWS GPU deployment
+
+### 🔹 Automated Data Pipeline
+- Processing 20K+ records daily
+- ETL workflows
+- Scraping & transformation
+- AI-ready structured datasets
+
+### 🔹 AI Mock Test Generator
+- Dynamic question generation
+- Prompt engineering
+- Personalized assessments
+
+---
+
+## 📈 Current Focus
+
+- Agentic AI Systems
+- Multi-Agent Orchestration
+- MCP Integrations
+- Production AI Architecture
+- AI Observability & Optimization
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/brajendra-pateriya
+- 🌐 GitHub: https://github.com/BP32-AI
+- 📧 Email: brajendrapateriya@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy converting manual workflows into scalable AI-powered automation systems 🚀
