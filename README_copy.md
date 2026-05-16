@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brajendra-pateriya-735a9614a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brajendrapateriya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BP32-AI)
 
 </div>
@@ -23,8 +21,6 @@ I'm a **Generative AI Engineer** with **4+ years of experience** building produc
 - 🧠 Expert in **LangChain, RAG systems, Agentic AI** & production MLOps
 - 🎯 Currently working at **Singularis Ventures** (Gurgaon, India)
 - 📍 Based in **Indore, India** | Open to remote opportunities
-- 🚀 Portfolio: [portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app](https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/)
-- 📄 Resume: [Download PDF](https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/resume.pdf)
 
 ---
 
@@ -36,7 +32,6 @@ class BrajendraPateriya:
         self.role = "Generative AI Engineer"
         self.location = "Indore, India"
         self.current_company = "Singularis Ventures"
-        self.portfolio = "https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/"
         
     def get_expertise(self):
         return {
@@ -186,8 +181,6 @@ I'm currently **open to new opportunities** — full-time roles, freelance proje
 
 - 📧 Email: [brajendrapateriya@gmail.com](mailto:brajendrapateriya@gmail.com)
 - 💼 LinkedIn: [brajendra-pateriya-735a9614a](https://www.linkedin.com/in/brajendra-pateriya-735a9614a/)
-- 🚀 Portfolio: [View Live](https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/)
-- 📄 Resume: [Download PDF](https://portfolio-git-main-brajendrapatariya-3927s-projects.vercel.app/resume.pdf)
 - 📱 Phone: +91 9617003635
 - 📍 Location: Indore, India
 
